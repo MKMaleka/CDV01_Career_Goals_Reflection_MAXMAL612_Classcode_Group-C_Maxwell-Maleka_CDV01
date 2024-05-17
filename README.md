@@ -78,11 +78,11 @@
      - Obtain ISTQB (International Software Testing Qualification Board) certifications, Foundation level, Agile tester, technical test analyst, and Test Automation engineer.
 
     Explain the rationale behind each goal.
-     Complete Software development with CodeSpace successfully.
-      - To comprehend and be able to apply fundamental basics in JavaScript, CSS, HTML and APIs. These programming languages are required for an automation engineer to apply and scripts tests.
+    Complete Software development with CodeSpace successfully.
+     - To comprehend and be able to apply fundamental basics in JavaScript, CSS, HTML and APIs. These programming languages are required for an automation engineer to apply and scripts tests.
 
-     Obtain ISTQB (International Software Testing Qualification Board) certifications, Foundation level, Agile tester, technical test analyst, and Test Automation engineer.
-      - These ISTQB certifications will help me to comprehend testing and what is required as tester of the product. Also, completing these certifications will help me to be considered for the job in banking and insurance industries as they required to validate that one is suitable candidate.
+    Obtain ISTQB (International Software Testing Qualification Board) certifications, Foundation level, Agile tester, technical test analyst, and Test Automation engineer.
+     - These ISTQB certifications will help me to comprehend testing and what is required as tester of the product. Also, completing these certifications will help me to be considered for the job in banking and insurance industries as they required to validate that one is suitable candidate.
 
 2. **Long-term Goals** (3-5 years and beyond):
 
@@ -110,32 +110,32 @@
 1. **Steps to Achieve Short-term Goals**:
 
      Detail specific actions or steps needed to achieve each short-term goal.
-      Complete Software development with CodeSpace successfully.
+     Complete Software development with CodeSpace successfully.
       - Daily tasks – Assign at least two hours or more each day to practice and do assignments.
       - Obtain ISTQB (International Software Testing Qualification Board) certifications, Foundation level, Agile tester, technical test analyst, and Test Automation engineer.
-      Divide 12 months in three months to study and write the exam in the following:
-       - First three months – Foundation level.
-       - Second three months – Agile tester.
-       - Third three months - Technical test analyst.
-       - Fourth three months – Test Automation engineer
+       Divide 12 months in three months to study and write the exam in the following:
+        - First three months – Foundation level.
+        - Second three months – Agile tester.
+        - Third three months - Technical test analyst.
+        - Fourth three months – Test Automation engineer
 
     Include any resources or support required.
-     Complete Software development with CodeSpace successfully.
-     - Resources – CodeSpace LMS, Codepen and Scrimba
-     Obtain ISTQB (International Software Testing Qualification Board) certifications, Foundation level, Agile tester, technical test analyst, and Test Automation engineer.
+    Complete Software development with CodeSpace successfully.
+     - Resources – CodeSpace LMS, Codepen and Scrimba.
+    Obtain ISTQB (International Software Testing Qualification Board) certifications, Foundation level, Agile tester, technical test analyst, and Test Automation engineer.
      - Resources - ISTQB website, and Udemy.
 
 2. **Preparation for Long-term Goals**:
 
     Describe the preparations or groundwork necessary for your long-term aspirations.
-     Test manager certification.
-      - It will be ideal to obtain at least once I have at least three years working experience with the test environment because with the knowledge that I would have gained it will be easier to transfer the skills trainees and members of the team.
+    Test manager certification.
+     - It will be ideal to obtain at least once I have at least three years working experience with the test environment because with the knowledge that I would have gained it will be easier to transfer the skills trainees and members of the team.
      Be a test manager.
-      - On my 3 – 5 year experience I would consider the role.
+     - On my 3 – 5 year experience I would consider the role.
      Work for various banking/insurance industries to gain knowledge.
-      - Changing jobs is very important as it will to ensure that I gain relevant skills and experience. Also, to learn from the others. I think every 1 – 2 years would be adequate to change jobs
+     - Changing jobs is very important as it will to ensure that I gain relevant skills and experience. Also, to learn from the others. I think every 1 – 2 years would be adequate to change jobs
 
-     Consider additional skills, experiences, or qualifications needed.
+    Consider additional skills, experiences, or qualifications needed.
      - Postman
      - Appium
      - C#
@@ -147,7 +147,7 @@
 ## Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
-     Identify potential obstacles or challenges in reaching your goals.
+    Identify potential obstacles or challenges in reaching your goals.
      - Time management.
      - Money.
     Consider strategies to overcome these challenges.
@@ -158,16 +158,16 @@
 
 2. **Opportunities for Growth**:
 
-     Highlight any opportunities you can leverage for career growth.
-     Includes networking, mentorship, or educational opportunities.
-      Networking.
-       - Reaching out to the people on LinkedIn for advice.
-      Udemy
-       - Buy courses relevant or align with my careers.
+    Highlight any opportunities you can leverage for career growth.
+    Includes networking, mentorship, or educational opportunities.
+    Networking.
+     - Reaching out to the people on LinkedIn for advice.
+    Udemy
+     - Buy courses relevant or align with my careers.
       CodeSpace
-       - To start leveraging on the coaches and resources supplied.
-      Feedback
-       - Ask my manager about my progress.
+     - To start leveraging on the coaches and resources supplied.
+    Feedback
+     - Ask my manager about my progress.
 
 
 
