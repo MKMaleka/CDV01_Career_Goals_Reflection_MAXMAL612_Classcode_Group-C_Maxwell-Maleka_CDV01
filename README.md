@@ -46,6 +46,7 @@
 1. **Industries and Roles Explored**:
 
     List the industries or roles you have researched.
+
     Industries
      - Banking industry
      - Insurance Industry
@@ -78,13 +79,14 @@
      - Obtain ISTQB (International Software Testing Qualification Board) certifications, Foundation level, Agile tester, technical test analyst, and Test Automation engineer.
 
     Explain the rationale behind each goal.
+
     Complete Software development with CodeSpace successfully.
      - To comprehend and be able to apply fundamental basics in JavaScript, CSS, HTML and APIs. These programming languages are required for an automation engineer to apply and scripts tests.
 
     Obtain ISTQB (International Software Testing Qualification Board) certifications, Foundation level, Agile tester, technical test analyst, and Test Automation engineer.
      - These ISTQB certifications will help me to comprehend testing and what is required as tester of the product. Also, completing these certifications will help me to be considered for the job in banking and insurance industries as they required to validate that one is suitable candidate.
 
-2. **Long-term Goals** (3-5 years and beyond):
+3. **Long-term Goals** (3-5 years and beyond):
 
     Outline your long-term career aspirations.
      - Be a test manager.
