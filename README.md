@@ -95,16 +95,18 @@
      - Work for various banking/insurance industries to gain knowledge.
 
     Describe how these align with your interests and skills.
-     Be a test manager.
-      - To ensure proper processes are followed and accurate testing methodologies are followed to ensure quality and to save costs.
-      - To research and do product comparisons of automation testing tools to determine one that can be implemented in the testing environment.
-      - To present to various stakeholders about quality percentage/performance.
-     Obtain ISTQB test manager certification and Mobile Application testing certification.
-      - Test manager certification – It will help me know what is required of test manager.
-      - Mobile Application testing certification – It will help me how to test mobile apps and tools to use for mobile.
-      - SQL certification - To understand database.
-     Work for various banking/insurance industries to gain knowledge.
-      - To change jobs within the banking/insurance industry to gain in-depth knowledge and experience to understand development test lifecycle and importance of automation.
+
+    Be a test manager.
+     - To ensure proper processes are followed and accurate testing methodologies are followed to ensure quality and to save costs.
+     - To research and do product comparisons of automation testing tools to determine one that can be implemented in the testing environment.
+     - To present to various stakeholders about quality percentage/performance.
+    Obtain ISTQB test manager certification and Mobile Application testing certification.
+     - Test manager certification – It will help me know what is required of test manager.
+     - Mobile Application testing certification – It will help me how to test mobile apps and tools to use for mobile.
+    SQL certification 
+     - To understand database.
+    Work for various banking/insurance industries to gain knowledge.
+     - To change jobs within the banking/insurance industry to gain in-depth knowledge and experience to understand development test lifecycle and importance of automation.
 
 
 ### Part 4: Action Plan
@@ -136,9 +138,9 @@
 
     Test manager certification.
      - It will be ideal to obtain at least once I have at least three years working experience with the test environment because with the knowledge that I would have gained it will be easier to transfer the skills trainees and members of the team.
-     Be a test manager.
+    Be a test manager.
      - On my 3 – 5 year experience I would consider the role.
-     Work for various banking/insurance industries to gain knowledge.
+    Work for various banking/insurance industries to gain knowledge.
      - Changing jobs is very important as it will to ensure that I gain relevant skills and experience. Also, to learn from the others. I think every 1 – 2 years would be adequate to change jobs
 
     Consider additional skills, experiences, or qualifications needed.
@@ -157,11 +159,13 @@
     Identify potential obstacles or challenges in reaching your goals.
      - Time management.
      - Money.
+
     Consider strategies to overcome these challenges.
-     Time management.
-      - Make daily schedule to dedicate time to my studies.
-     Money.
-      - Most ISTQB certifications I would like to do will be self-funded, I will have to sacrifice part of my salary.
+
+    Time management.
+     - Make daily schedule to dedicate time to my studies.
+    Money.
+     - Most ISTQB certifications I would like to do will be self-funded, I will have to sacrifice part of my salary.
 
 2. **Opportunities for Growth**:
 
@@ -169,10 +173,13 @@
     Includes networking, mentorship, or educational opportunities.
      Networking.
       - Reaching out to the people on LinkedIn for advice.
+
      Udemy
       - Buy courses relevant or align with my careers.
+
      CodeSpace
       - To start leveraging on the coaches and resources supplied.
+      
      Feedback
       - Ask my manager about my progress.
 
