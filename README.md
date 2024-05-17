@@ -110,6 +110,7 @@
 1. **Steps to Achieve Short-term Goals**:
 
      Detail specific actions or steps needed to achieve each short-term goal.
+
      Complete Software development with CodeSpace successfully.
       - Daily tasks – Assign at least two hours or more each day to practice and do assignments.
       - Obtain ISTQB (International Software Testing Qualification Board) certifications, Foundation level, Agile tester, technical test analyst, and Test Automation engineer.
@@ -120,14 +121,17 @@
         - Fourth three months – Test Automation engineer
 
     Include any resources or support required.
-    Complete Software development with CodeSpace successfully.
-     - Resources – CodeSpace LMS, Codepen and Scrimba.
-    Obtain ISTQB (International Software Testing Qualification Board) certifications, Foundation level, Agile tester, technical test analyst, and Test Automation engineer.
-     - Resources - ISTQB website, and Udemy.
+
+     Complete Software development with CodeSpace successfully.
+      - Resources – CodeSpace LMS, Codepen and Scrimba.
+
+     Obtain ISTQB (International Software Testing Qualification Board) certifications, Foundation level, Agile tester, technical test analyst, and Test Automation engineer.
+      - Resources - ISTQB website, and Udemy.
 
 2. **Preparation for Long-term Goals**:
 
     Describe the preparations or groundwork necessary for your long-term aspirations.
+
     Test manager certification.
      - It will be ideal to obtain at least once I have at least three years working experience with the test environment because with the knowledge that I would have gained it will be easier to transfer the skills trainees and members of the team.
      Be a test manager.
@@ -147,6 +151,7 @@
 ## Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
+
     Identify potential obstacles or challenges in reaching your goals.
      - Time management.
      - Money.
@@ -160,14 +165,14 @@
 
     Highlight any opportunities you can leverage for career growth.
     Includes networking, mentorship, or educational opportunities.
-    Networking.
-     - Reaching out to the people on LinkedIn for advice.
-    Udemy
-     - Buy courses relevant or align with my careers.
-      CodeSpace
-     - To start leveraging on the coaches and resources supplied.
-    Feedback
-     - Ask my manager about my progress.
+     Networking.
+      - Reaching out to the people on LinkedIn for advice.
+     Udemy
+      - Buy courses relevant or align with my careers.
+     CodeSpace
+      - To start leveraging on the coaches and resources supplied.
+     Feedback
+      - Ask my manager about my progress.
 
 
 
