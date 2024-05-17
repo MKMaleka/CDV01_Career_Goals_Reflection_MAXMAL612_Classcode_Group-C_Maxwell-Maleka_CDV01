@@ -107,7 +107,7 @@
 
     SQL certification 
      - To understand database.
-     
+
     Work for various banking/insurance industries to gain knowledge.
      - To change jobs within the banking/insurance industry to gain in-depth knowledge and experience to understand development test lifecycle and importance of automation.
 
@@ -177,6 +177,7 @@
 
     Highlight any opportunities you can leverage for career growth.
     Includes networking, mentorship, or educational opportunities.
+    
      Networking.
       - Reaching out to the people on LinkedIn for advice.
 
