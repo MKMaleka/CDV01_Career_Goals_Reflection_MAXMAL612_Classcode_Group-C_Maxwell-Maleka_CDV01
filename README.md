@@ -120,7 +120,8 @@
 
      Complete Software development with CodeSpace successfully.
       - Daily tasks – Assign at least two hours or more each day to practice and do assignments.
-      - Obtain ISTQB (International Software Testing Qualification Board) certifications, Foundation level, Agile tester, technical test analyst, and Test Automation engineer.
+
+     Obtain ISTQB (International Software Testing Qualification Board) certifications, Foundation level, Agile tester, technical test analyst, and Test Automation engineer.
        Divide 12 months in three months to study and write the exam in the following:
         - First three months – Foundation level.
         - Second three months – Agile tester.
@@ -177,7 +178,7 @@
 
     Highlight any opportunities you can leverage for career growth.
     Includes networking, mentorship, or educational opportunities.
-    
+
      Networking.
       - Reaching out to the people on LinkedIn for advice.
 
